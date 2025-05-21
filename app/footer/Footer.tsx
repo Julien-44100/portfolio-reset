@@ -5,7 +5,7 @@ export default function Footer() {
 	return (
 		<nav className={styles.Footer}>
 			<img
-				src="/image/Portfoliodev.jpg"
+				src="/image/copywright.png"
 				alt="logo"
 				className={styles.logofooter}
 			/>
