@@ -1,0 +1,13 @@
+.Footer {
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0a192f;
+}
+
+.logofooter {
+	width: 60px;
+	border-radius: 15px;
+	height: auto;
+}
